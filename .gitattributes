@@ -1,2 +1,0 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
-FIKA_SPT_Mods filter=lfs diff=lfs merge=lfs -text
